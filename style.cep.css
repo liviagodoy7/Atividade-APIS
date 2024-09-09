@@ -1,0 +1,17 @@
+body {
+    background-color: cornflowerblue;
+    }
+    .titulo {
+        color: rgb(0, 0, 0);
+        font-family: fantasy;
+        justify-content: center
+    }
+    .legenda {
+        font-size: 20px;
+    }
+
+    .voltar {
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+    }   

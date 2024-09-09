@@ -1,0 +1,21 @@
+header {
+    background-color: rgb(28, 94, 15);
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+body {
+   background-image: url('fundo dólares.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.capa {
+    background-color: aliceblue;
+    border-radius: 15px;
+    max-width: 300px;
+    padding: 20px;
+    margin: 50px auto;
+    text-align: center;
+    justify-content: center;
+}
